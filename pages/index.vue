@@ -29,6 +29,7 @@
                   placeholder="Title"
                   type="text"
                 />
+                <!-- content -->
                 <textarea
                   v-model="postAdded.content"
                   class="description bg-gray-100 sec text-sm p-3 h-60 border border-gray-300 outline-none"
